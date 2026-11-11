@@ -1,0 +1,7 @@
+PROJETO: Gerenciamento de Configuração de Software
+
+ATIVIDADE: Controle de artefatos com Git e GitHub.
+
+DESCRIÇÃO: Arquivo criado localmente para demonstrar o controle de versão.
+
+OBJETIVO: Registrar uma alteração no projeto e disponibilizá-la no repositório remoto utilizando Git.
